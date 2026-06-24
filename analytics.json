@@ -1,0 +1,122 @@
+{
+  "dailyVisits": [
+    {
+      "date": "2026-06-24",
+      "visits": 2,
+      "uniqueVisitors": 2
+    }
+  ],
+  "monthlyVisits": [
+    {
+      "month": "2026-06",
+      "visits": 2,
+      "uniqueVisitors": 2
+    }
+  ],
+  "pageViews": [
+    {
+      "path": "/lien-he",
+      "title": "Liên Hệ Tuấn Key | Làm Chìa Khóa Ô Tô Tận Nơi 24/7",
+      "views": 5
+    },
+    {
+      "path": "/",
+      "title": "Tuấn Key - Chuyên Khóa Ô Tô | Cứu Hộ Khóa 24/7",
+      "views": 4
+    },
+    {
+      "path": "/dich-vu/mo-khoa-cua-o-to",
+      "title": "MỞ KHÓA CỬA Ô TÔ | Tuấn Key - Dịch Vụ Khóa Ô Tô Tận Nơi",
+      "views": 4
+    },
+    {
+      "path": "/san-pham/lam-chia-khoa-xe-toyota",
+      "title": "Làm Chìa Khóa Xe Toyota | Tuấn Key - Cứu Hộ Khóa 24/7",
+      "views": 1
+    }
+  ],
+  "serviceViews": [
+    {
+      "serviceId": "srv_01",
+      "views": 4,
+      "calls": 0
+    },
+    {
+      "serviceId": "srv_02",
+      "views": 0,
+      "calls": 0
+    },
+    {
+      "serviceId": "srv_03",
+      "views": 0,
+      "calls": 0
+    },
+    {
+      "serviceId": "srv_04",
+      "views": 0,
+      "calls": 0
+    }
+  ],
+  "brandViews": [
+    {
+      "brandId": "br_toyota",
+      "views": 0
+    },
+    {
+      "brandId": "br_honda",
+      "views": 0
+    },
+    {
+      "brandId": "br_mazda",
+      "views": 0
+    },
+    {
+      "brandId": "br_hyundai",
+      "views": 0
+    },
+    {
+      "brandId": "br_kia",
+      "views": 0
+    },
+    {
+      "brandId": "br_ford",
+      "views": 0
+    },
+    {
+      "brandId": "br_mercedes",
+      "views": 0
+    },
+    {
+      "brandId": "br_bmw",
+      "views": 0
+    }
+  ],
+  "trafficSources": [
+    {
+      "source": "Trực tiếp",
+      "visits": 1,
+      "percent": 50
+    },
+    {
+      "source": "Khác",
+      "visits": 1,
+      "percent": 50
+    }
+  ],
+  "recentCalls": [],
+  "topAreas": [],
+  "knownVisitors": [
+    {
+      "id": "v_5pq7ym2jk1omqrmrpe5",
+      "firstSeen": 1782278781838,
+      "lastSeen": 1782279847273,
+      "pageCount": 8
+    },
+    {
+      "id": "v_nciikrbd0xmqrn32rg",
+      "firstSeen": 1782279312346,
+      "lastSeen": 1782279726499,
+      "pageCount": 6
+    }
+  ]
+}

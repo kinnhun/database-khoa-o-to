@@ -1,0 +1,164 @@
+[
+  {
+    "id": "br_toyota",
+    "slug": "lam-chia-khoa-xe-toyota",
+    "name": "Toyota",
+    "fullName": "Làm Chìa Khóa Xe Toyota",
+    "origin": "Xe Nhật",
+    "logoUrl": "/images/brands/toyota.svg",
+    "bannerUrl": "/images/banner/product/banner-lam-chia-khoa-xe-toyota.png",
+    "description": "Tuấn Key chuyên làm chìa khóa, smartkey xe Toyota chính hãng. Có mặt tại chỗ 15-30 phút, bảo hành trọn đời mã hóa.",
+    "models": [
+      "Vios",
+      "Camry",
+      "Corolla Cross",
+      "Fortuner",
+      "Innova",
+      "Land Cruiser",
+      "Yaris",
+      "Rush",
+      "Hilux",
+      "RAV4",
+      "Wigo",
+      "Avanza"
+    ]
+  },
+  {
+    "id": "br_honda",
+    "slug": "lam-chia-khoa-xe-honda",
+    "name": "Honda",
+    "fullName": "Làm Chìa Khóa Xe Honda",
+    "origin": "Xe Nhật",
+    "logoUrl": "/images/brands/honda.svg",
+    "description": "Chuyên làm chìa khóa, smartkey xe Honda tất cả các dòng xe. Lập trình remote thông minh chính hãng, bảo hành trọn đời.",
+    "models": [
+      "City",
+      "Civic",
+      "CR-V",
+      "HR-V",
+      "Accord",
+      "BR-V",
+      "Jazz",
+      "Brio"
+    ]
+  },
+  {
+    "id": "br_mazda",
+    "slug": "lam-chia-khoa-xe-mazda",
+    "name": "Mazda",
+    "fullName": "Làm Chìa Khóa Xe Mazda",
+    "origin": "Xe Nhật",
+    "logoUrl": "/images/brands/mazda.svg",
+    "description": "Làm chìa khóa, smartkey xe Mazda tận nơi. Trang bị máy lập trình đời mới, tương thích tất cả dòng Mazda.",
+    "models": [
+      "Mazda 2",
+      "Mazda 3",
+      "Mazda 6",
+      "CX-3",
+      "CX-5",
+      "CX-8",
+      "CX-30",
+      "BT-50"
+    ]
+  },
+  {
+    "id": "br_hyundai",
+    "slug": "lam-chia-khoa-xe-hyundai",
+    "name": "Hyundai",
+    "fullName": "Làm Chìa Khóa Xe Hyundai",
+    "origin": "Xe Hàn",
+    "logoUrl": "/images/brands/hyundai.svg",
+    "description": "Chuyên làm chìa khóa, cài đặt smartkey xe Hyundai. Đội ngũ thợ hơn 10 năm kinh nghiệm với các dòng xe Hyundai.",
+    "models": [
+      "Accent",
+      "Tucson",
+      "Santa Fe",
+      "Creta",
+      "Elantra",
+      "i10",
+      "Kona",
+      "Stargazer",
+      "Palisade"
+    ]
+  },
+  {
+    "id": "br_kia",
+    "slug": "lam-chia-khoa-xe-kia",
+    "name": "Kia",
+    "fullName": "Làm Chìa Khóa Xe Kia",
+    "origin": "Xe Hàn",
+    "logoUrl": "/images/brands/kia.svg",
+    "description": "Làm chìa khóa, smartkey xe Kia chuyên nghiệp. Lập trình remote chính hãng, bảo hành trọn đời mã hóa.",
+    "models": [
+      "Morning",
+      "Seltos",
+      "Sportage",
+      "Sorento",
+      "K3",
+      "K5",
+      "Carnival",
+      "Sonet",
+      "EV6"
+    ]
+  },
+  {
+    "id": "br_ford",
+    "slug": "lam-chia-khoa-xe-ford",
+    "name": "Ford",
+    "fullName": "Làm Chìa Khóa Xe Ford",
+    "origin": "Xe Mỹ",
+    "logoUrl": "/images/brands/ford.svg",
+    "description": "Chuyên làm chìa khóa, smartkey xe Ford. Có mặt nhanh chóng, thiết bị hiện đại, bảo hành chính hãng.",
+    "models": [
+      "Ranger",
+      "Everest",
+      "Territory",
+      "Explorer",
+      "EcoSport",
+      "Escape",
+      "Transit"
+    ]
+  },
+  {
+    "id": "br_mercedes",
+    "slug": "lam-chia-khoa-xe-mercedes",
+    "name": "Mercedes",
+    "fullName": "Làm Chìa Khóa Xe Mercedes-Benz",
+    "origin": "Xe Đức",
+    "logoUrl": "/images/brands/mercedes.svg",
+    "description": "Chuyên làm chìa khóa xe Mercedes-Benz cao cấp. Lập trình smartkey chính hãng với thiết bị đời mới nhất.",
+    "models": [
+      "C-Class",
+      "E-Class",
+      "S-Class",
+      "GLC",
+      "GLE",
+      "GLS",
+      "A-Class",
+      "GLA",
+      "GLB",
+      "AMG GT"
+    ]
+  },
+  {
+    "id": "br_bmw",
+    "slug": "lam-chia-khoa-xe-bmw",
+    "name": "BMW",
+    "fullName": "Làm Chìa Khóa Xe BMW",
+    "origin": "Xe Đức",
+    "logoUrl": "/images/brands/bmw.svg",
+    "description": "Làm chìa khóa xe BMW chuyên nghiệp. Lập trình CAS/FEM module, smartkey BMW chính hãng.",
+    "models": [
+      "Series 3",
+      "Series 5",
+      "Series 7",
+      "X1",
+      "X3",
+      "X5",
+      "X7",
+      "Z4",
+      "i4",
+      "iX"
+    ]
+  }
+]

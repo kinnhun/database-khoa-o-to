@@ -1,0 +1,62 @@
+[
+  { 
+    "id": "prod_01",
+    "category_id": "cat_oto",
+    "slug": "smartkey-khoa-thong-minh",
+    "name": "SMARTKEY KHÓA THÔNG MINH", 
+    "badge": "CHÍNH HÃNG", 
+    "shortDescription": "Cài đặt, làm mới smartkey cho mọi dòng xe sang.", 
+    "image": "/api/images/sanpham/SMARTKEY.png", 
+    "isFeatured": true,
+    "order": 1,
+    "gridClass": "large1"
+  },
+  { 
+    "id": "prod_02",
+    "category_id": "cat_oto",
+    "slug": "remote-dieu-khien",
+    "name": "REMOTE ĐIỀU KHIỂN", 
+    "badge": "CHÍNH HÃNG", 
+    "shortDescription": "Làm thêm chìa khóa remote, sửa chữa mạch bấm.", 
+    "image": "/api/images/sanpham/REMOTE.png", 
+    "isFeatured": true,
+    "order": 2,
+    "gridClass": "large2"
+  },
+  { 
+    "id": "prod_03",
+    "category_id": "cat_oto",
+    "slug": "chia-khoa-co-chip",
+    "name": "CHÌA KHÓA CÓ CHIP", 
+    "badge": "CHÍNH HÃNG", 
+    "shortDescription": "Mã hóa chip từ nổ máy.", 
+    "image": "/api/images/sanpham/CHÌA KHÓA CÓ CHIP.png", 
+    "isFeatured": true,
+    "order": 3,
+    "gridClass": "small1"
+  },
+  { 
+    "id": "prod_04",
+    "category_id": "cat_phukien",
+    "slug": "vo-chia-khoa",
+    "name": "VỎ CHÌA KHÓA", 
+    "badge": "CHÍNH HÃNG", 
+    "shortDescription": "Thay vỏ khóa chính hãng mới.", 
+    "image": "/api/images/sanpham/VỎ CHÌA KHÓA.png", 
+    "isFeatured": true,
+    "order": 4,
+    "gridClass": "small2"
+  },
+  { 
+    "id": "prod_05",
+    "category_id": "cat_phukien",
+    "slug": "pin-remote",
+    "name": "PIN REMOTE CHẤT LƯỢNG", 
+    "badge": "CHÍNH HÃNG", 
+    "shortDescription": "Thay pin Panasonic, Maxell.", 
+    "image": "/api/images/sanpham/PIN REMOTE.png", 
+    "isFeatured": true,
+    "order": 5,
+    "gridClass": "small3"
+  }
+]

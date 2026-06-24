@@ -2,37 +2,37 @@
   "dailyVisits": [
     {
       "date": "2026-06-24",
-      "visits": 2,
-      "uniqueVisitors": 2
+      "visits": 3,
+      "uniqueVisitors": 3
     }
   ],
   "monthlyVisits": [
     {
       "month": "2026-06",
-      "visits": 2,
-      "uniqueVisitors": 2
+      "visits": 3,
+      "uniqueVisitors": 3
     }
   ],
   "pageViews": [
+    {
+      "path": "/",
+      "title": "Tuấn Key - Chuyên Khóa Ô Tô | Cứu Hộ Khóa 24/7",
+      "views": 16
+    },
+    {
+      "path": "/san-pham/lam-chia-khoa-xe-toyota",
+      "title": "Làm Chìa Khóa Xe Toyota | Tuấn Key - Cứu Hộ Khóa 24/7",
+      "views": 6
+    },
     {
       "path": "/lien-he",
       "title": "Liên Hệ Tuấn Key | Làm Chìa Khóa Ô Tô Tận Nơi 24/7",
       "views": 5
     },
     {
-      "path": "/",
-      "title": "Tuấn Key - Chuyên Khóa Ô Tô | Cứu Hộ Khóa 24/7",
-      "views": 4
-    },
-    {
       "path": "/dich-vu/mo-khoa-cua-o-to",
       "title": "MỞ KHÓA CỬA Ô TÔ | Tuấn Key - Dịch Vụ Khóa Ô Tô Tận Nơi",
       "views": 4
-    },
-    {
-      "path": "/san-pham/lam-chia-khoa-xe-toyota",
-      "title": "Làm Chìa Khóa Xe Toyota | Tuấn Key - Cứu Hộ Khóa 24/7",
-      "views": 1
     }
   ],
   "serviceViews": [
@@ -94,13 +94,13 @@
   "trafficSources": [
     {
       "source": "Trực tiếp",
-      "visits": 1,
-      "percent": 50
+      "visits": 2,
+      "percent": 67
     },
     {
       "source": "Khác",
       "visits": 1,
-      "percent": 50
+      "percent": 33
     }
   ],
   "recentCalls": [],
@@ -109,14 +109,20 @@
     {
       "id": "v_5pq7ym2jk1omqrmrpe5",
       "firstSeen": 1782278781838,
-      "lastSeen": 1782279847273,
-      "pageCount": 8
+      "lastSeen": 1782281751380,
+      "pageCount": 14
     },
     {
       "id": "v_nciikrbd0xmqrn32rg",
       "firstSeen": 1782279312346,
-      "lastSeen": 1782279726499,
-      "pageCount": 6
+      "lastSeen": 1782281838816,
+      "pageCount": 16
+    },
+    {
+      "id": "v_9sd6m7srhxhmqrnw3jz",
+      "firstSeen": 1782280666418,
+      "lastSeen": 1782280666418,
+      "pageCount": 1
     }
   ]
 }

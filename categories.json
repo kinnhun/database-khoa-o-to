@@ -1,5 +1,22 @@
 [
-  { "id": "cat_oto", "name": "Khóa Ô Tô", "slug": "khoa-o-to" },
-  { "id": "cat_xemay", "name": "Khóa Xe Máy", "slug": "khoa-xe-may" },
-  { "id": "cat_phukien", "name": "Phụ Kiện & Pin", "slug": "phu-kien" }
+  {
+    "id": "cat_oto",
+    "name": "Khóa Ô Tô",
+    "slug": "khoa-o-to"
+  },
+  {
+    "id": "cat_xemay",
+    "name": "Khóa Xe Máy",
+    "slug": "khoa-xe-may"
+  },
+  {
+    "id": "cat_dochia",
+    "name": "Độ Chìa Khóa",
+    "slug": "do-chia-khoa"
+  },
+  {
+    "id": "cat_phukien",
+    "name": "Phụ Kiện & Pin",
+    "slug": "phu-kien-pin"
+  }
 ]

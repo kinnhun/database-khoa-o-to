@@ -4,51 +4,146 @@
       "date": "2026-06-24",
       "visits": 3,
       "uniqueVisitors": 3
+    },
+    {
+      "date": "2026-06-25",
+      "visits": 1,
+      "uniqueVisitors": 1
     }
   ],
   "monthlyVisits": [
     {
       "month": "2026-06",
-      "visits": 3,
-      "uniqueVisitors": 3
+      "visits": 4,
+      "uniqueVisitors": 4
     }
   ],
   "pageViews": [
     {
       "path": "/",
       "title": "Tuân Key - Chuyên Khóa Ô Tô | Cứu Hộ Khóa 24/7",
-      "views": 16
+      "views": 35
     },
     {
       "path": "/san-pham/lam-chia-khoa-xe-toyota",
       "title": "Làm Chìa Khóa Xe Toyota | Tuân Key - Cứu Hộ Khóa 24/7",
-      "views": 6
+      "views": 11
     },
     {
-      "path": "/lien-he",
-      "title": "Liên Hệ Tuân Key | Làm Chìa Khóa Ô Tô Tận Nơi 24/7",
-      "views": 5
+      "path": "/dich-vu/lam-lai-chia-khoa-khi-mat",
+      "title": "LÀM LẠI CHÌA KHÓA MẤT HẾT | Tuân Key - Dịch Vụ Khóa Ô Tô Tận Nơi",
+      "views": 11
     },
     {
       "path": "/dich-vu/mo-khoa-cua-o-to",
       "title": "MỞ KHÓA CỬA Ô TÔ | Tuân Key - Dịch Vụ Khóa Ô Tô Tận Nơi",
+      "views": 10
+    },
+    {
+      "path": "/lien-he",
+      "title": "Liên Hệ Tuân Key | Làm Chìa Khóa Ô Tô Tận Nơi 24/7",
+      "views": 9
+    },
+    {
+      "path": "/san-pham/khoa-xe-may",
+      "title": "Danh Mục: Khóa Xe Máy | Tuân Key - Cứu Hộ Khóa 24/7",
+      "views": 6
+    },
+    {
+      "path": "/san-pham",
+      "title": "Danh Sách Sản Phẩm & Hãng Xe Hỗ Trợ | Tuân Key",
       "views": 4
+    },
+    {
+      "path": "/san-pham/smartkey-honda",
+      "title": "Smartkey Honda Chính Hãng | Tuân Key - Làm Khóa Tận Nơi",
+      "views": 3
+    },
+    {
+      "path": "/san-pham/do-chia-gap",
+      "title": "Độ chìa khóa gập Chính Hãng | Tuân Key - Làm Khóa Tận Nơi",
+      "views": 3
+    },
+    {
+      "path": "/san-pham/do-chia-khoa",
+      "title": "Danh Mục: Độ Chìa Khóa | Tuân Key - Cứu Hộ Khóa 24/7",
+      "views": 3
+    },
+    {
+      "path": "/san-pham/undefined",
+      "title": "Không tìm thấy",
+      "views": 2
+    },
+    {
+      "path": "/san-pham/vespa-piaggio",
+      "title": "Chìa Piaggio/Vespa Chính Hãng | Tuân Key - Làm Khóa Tận Nơi",
+      "views": 2
+    },
+    {
+      "path": "/san-pham/smartkey-yamaha",
+      "title": "Smartkey Yamaha Chính Hãng | Tuân Key - Làm Khóa Tận Nơi",
+      "views": 2
+    },
+    {
+      "path": "/san-pham/lam-chia-khoa-xe-mazda",
+      "title": "Làm Chìa Khóa Xe Mazda | Tuân Key - Cứu Hộ Khóa 24/7",
+      "views": 2
+    },
+    {
+      "path": "/dich-vu/lam-chia-khoa-du-phong",
+      "title": "LÀM CHÌA KHÓA DỰ PHÒNG | Tuân Key - Dịch Vụ Khóa Ô Tô Tận Nơi",
+      "views": 2
+    },
+    {
+      "path": "/san-pham/vo-chia-khoa",
+      "title": "Không tìm thấy",
+      "views": 1
+    },
+    {
+      "path": "/san-pham/lam-chia-khoa-xe-ford",
+      "title": "Làm Chìa Khóa Xe Ford | Tuân Key - Cứu Hộ Khóa 24/7",
+      "views": 1
+    },
+    {
+      "path": "/san-pham/lam-chia-khoa-xe-mercedes",
+      "title": "Làm Chìa Khóa Xe Mercedes-Benz | Tuân Key - Cứu Hộ Khóa 24/7",
+      "views": 1
+    },
+    {
+      "path": "/san-pham/khoa-o-to",
+      "title": "Danh Mục: Khóa Ô Tô | Tuân Key - Cứu Hộ Khóa 24/7",
+      "views": 1
+    },
+    {
+      "path": "/san-pham/do-smartkey-xe-may",
+      "title": "Độ Smartkey xe máy Chính Hãng | Tuân Key - Làm Khóa Tận Nơi",
+      "views": 1
+    },
+    {
+      "path": "/san-pham/lam-chia-khoa-xe-hyundai",
+      "title": "Làm Chìa Khóa Xe Hyundai | Tuân Key - Cứu Hộ Khóa 24/7",
+      "views": 1
+    },
+    {
+      "path": "/dich-vu",
+      "title": "Tuân Key - Chuyên Khóa Ô Tô | Cứu Hộ Khóa 24/7",
+      "views": 1
     }
   ],
   "serviceViews": [
     {
       "serviceId": "srv_01",
-      "views": 4,
+      "views": 10,
       "calls": 0
     },
     {
       "serviceId": "srv_02",
-      "views": 0,
+      "views": 11,
       "calls": 0
     },
     {
       "serviceId": "srv_03",
-      "views": 0,
+      "views": 2,
       "calls": 0
     },
     {
@@ -94,13 +189,13 @@
   "trafficSources": [
     {
       "source": "Trực tiếp",
-      "visits": 2,
-      "percent": 67
+      "visits": 3,
+      "percent": 75
     },
     {
       "source": "Khác",
       "visits": 1,
-      "percent": 33
+      "percent": 25
     }
   ],
   "recentCalls": [],
@@ -109,20 +204,26 @@
     {
       "id": "v_5pq7ym2jk1omqrmrpe5",
       "firstSeen": 1782278781838,
-      "lastSeen": 1782281751380,
-      "pageCount": 14
+      "lastSeen": 1782389082016,
+      "pageCount": 58
     },
     {
       "id": "v_nciikrbd0xmqrn32rg",
       "firstSeen": 1782279312346,
-      "lastSeen": 1782281838816,
-      "pageCount": 16
+      "lastSeen": 1782371140491,
+      "pageCount": 17
     },
     {
       "id": "v_9sd6m7srhxhmqrnw3jz",
       "firstSeen": 1782280666418,
       "lastSeen": 1782280666418,
       "pageCount": 1
+    },
+    {
+      "id": "v_rdtr0bsuv99mqt6jyxo",
+      "firstSeen": 1782372479458,
+      "lastSeen": 1782384789543,
+      "pageCount": 36
     }
   ]
 }

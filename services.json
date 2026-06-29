@@ -8,103 +8,160 @@
     "image": "/api/images/service-open-door.png",
     "isActive": true,
     "order": 1,
-    "longDesc": "Tuân Key sử dụng bộ dụng cụ Lishi chuyên nghiệp từ Anh Quốc để mở cửa xe mà không cần phá khóa, cạy cửa hay gây tổn hại gì đến xe của bạn. Quy trình mở khóa an toàn, nhanh chóng, áp dụng cho mọi dòng xe từ bình dân đến xe sang. Đội ngũ kỹ thuật có mặt tại chỗ trong 15–30 phút sau khi nhận cuộc gọi.",
-    "benefits": [],
-    "steps": [],
-    "pricingIntro": "Chi phí mở khóa cửa ô tô tùy thuộc vào dòng xe và mức độ phức tạp của ổ khóa.",
-    "pricingDetails": [],
-    "faqs": []
-  },
-  {
-    "id": "srv_02",
-    "slug": "lam-lai-chia-khoa-khi-mat",
-    "name": "LÀM LẠI CHÌA KHÓA MẤT HẾT",
-    "subTitle": "DỊCH VỤ CHUYÊN NGHIỆP",
-    "shortDescription": "Làm lại chìa khóa cơ, smartkey khi xe mất hết chìa tại chỗ, đọc mã khóa qua ổ khóa xe nhanh gọn.",
-    "image": "/api/images/service-key-cutting.png",
-    "isActive": true,
-    "order": 2,
-    "longDesc": "Khi bạn mất hết toàn bộ chìa khóa xe, Tuân Key có thể làm lại chìa mới hoàn toàn tại chỗ. Bằng kỹ thuật đọc mã khóa qua ổ khóa xe (không cần phá khóa), kết hợp lập trình chip transponder và remote thông minh, chúng tôi khôi phục lại bộ chìa khóa đầy đủ chức năng cho xe bạn.",
+    "longDesc": "Tuân Key sử dụng bộ dụng cụ Lishi chuyên nghiệp từ Anh Quốc để mở cửa xe mà không cần phá khóa, cạy cửa hay gây tổn hại gì đến xe của bạn. Quy trình mở khóa an toàn, nhanh chóng, áp dụng cho mọi dòng xe từ bình dân đến xe sang. Đội ngũ kỹ thuật lưu động di chuyển nhanh chóng để có mặt tại chỗ hỗ trợ bạn sớm nhất sau khi nhận cuộc gọi.",
     "benefits": [
-      "Làm lại chìa khi mất hết 100% bộ khóa",
-      "Đọc mã khóa trực tiếp từ ổ khóa, không cần chìa gốc",
-      "Lập trình chip transponder nổ máy tại chỗ",
-      "Hỗ trợ cả chìa cơ, remote và smartkey",
-      "Bảo hành trọn đời mã hóa chống trộm",
-      "Hoàn thành trong 30–60 phút tại chỗ"
+      "Mở khóa cửa ô tô an toàn bằng thiết bị chuyên dụng Lishi",
+      "Cam kết không cạy cửa, không làm trầy xước sơn xe hay hư hại gioăng cao su",
+      "Đội kỹ thuật lưu động phục vụ tận nơi nhanh chóng ngay sau khi gọi",
+      "Hỗ trợ mở khóa cửa, mở cốp xe cho mọi hãng xe phổ thông đến xe sang",
+      "Thợ khóa chuyên môn cao, xử lý nhẹ nhàng, nhanh gọn và chuẩn xác",
+      "Phục vụ cứu hộ khẩn cấp 24/7 kể cả ngày lễ tết, đêm khuya tại Hà Nội"
     ],
     "steps": [
       {
-        "title": "Xác minh chủ xe",
-        "desc": "Kiểm tra giấy tờ xe và CMND/CCCD để xác nhận quyền sở hữu."
+        "title": "Tiếp nhận thông tin",
+        "desc": "Khách hàng liên hệ qua Hotline báo tình trạng xe bị khóa ngoài, hãng xe, đời xe và vị trí hiện tại."
       },
       {
-        "title": "Đọc mã khóa",
-        "desc": "Sử dụng thiết bị chuyên dụng đọc mã khóa từ ổ khóa xe."
+        "title": "Xác minh chính chủ",
+        "desc": "Thợ khóa kiểm tra nhanh giấy tờ xe hoặc thông tin liên quan để đảm bảo quyền sở hữu hợp pháp trước khi xử lý."
       },
       {
-        "title": "Cắt & lập trình chìa",
-        "desc": "Cắt chìa cơ theo mã, lập trình chip transponder và remote."
+        "title": "Thực hiện mở khóa",
+        "desc": "Sử dụng cây mở Lishi chuyên dụng đưa vào ổ khóa để dò mã nhíp, mở khóa nhẹ nhàng từ bên trong ổ cơ."
       },
       {
-        "title": "Test & bàn giao",
-        "desc": "Thử khởi động xe, kiểm tra tất cả chức năng remote, bàn giao khách."
+        "title": "Bàn giao & Nghiệm thu",
+        "desc": "Mở cửa thành công, hỗ trợ lấy chìa khóa bỏ quên bên trong xe ra, khách hàng kiểm thử các thiết bị và thanh toán."
       }
     ],
-    "pricingIntro": "Chi phí làm lại chìa khi mất hết phụ thuộc vào dòng xe và loại khóa (cơ, remote, smartkey).",
+    "pricingIntro": "Chi phí mở khóa cửa ô tô tùy thuộc vào dòng xe và mức độ phức tạp của ổ khóa.",
     "pricingDetails": [
       {
-        "type": "Chìa cơ có chip",
+        "type": "Mở khóa xe phổ thông",
+        "price": "300.000đ – 500.000đ",
+        "note": "KIA, Hyundai, Toyota, Honda đời cơ bản..."
+      },
+      {
+        "type": "Mở khóa xe tầm trung",
+        "price": "500.000đ – 800.000đ",
+        "note": "Mazda, Ford, Mitsubishi, Nissan, Chevrolet..."
+      },
+      {
+        "type": "Mở khóa xe hạng sang",
         "price": "800.000đ – 1.500.000đ",
-        "note": "Toyota Vios, Honda City, Mazda 3..."
-      },
-      {
-        "type": "Remote + chìa cơ",
-        "price": "1.500.000đ – 3.000.000đ",
-        "note": "Fortuner, CRV, CX5, Tucson..."
-      },
-      {
-        "type": "Smartkey full bộ",
-        "price": "3.000.000đ – 8.000.000đ",
-        "note": "Camry, Accord, Mercedes, BMW..."
+        "note": "Mercedes, BMW, Audi, Lexus, Porsche, Volvo..."
       }
     ],
     "faqs": [
       {
-        "q": "Mất hết chìa thì có làm lại được không?",
-        "a": "Được. Tuân Key đọc mã từ ổ khóa xe, không cần chìa gốc. Làm lại hoàn toàn bộ chìa mới tại chỗ."
+        "q": "Mở khóa cửa ô tô bằng cách này có làm xước sơn hay móp méo cửa không?",
+        "a": "Hoàn toàn KHÔNG. Tuân Key cam kết không sử dụng phương pháp cạy cửa truyền thống. Chúng tôi dùng cây Lishi chuyên dụng để tác động trực tiếp vào lõi ổ khóa bên trong tay nắm cửa giống như cắm chìa khóa thông thường, đảm bảo an toàn 100% cho vỏ sơn và gioăng cao su của xe."
       },
       {
-        "q": "Có cần kéo xe về hãng không?",
-        "a": "Không. Tuân Key đến tận nơi xe đang đậu, xử lý trọn gói tại chỗ, không cần kéo xe."
+        "q": "Tôi bị quên chìa khóa trong cốp xe thì có mở cốp được không?",
+        "a": "Được. Chúng tôi sẽ tiến hành mở khóa cửa chính để giật chốt mở cốp hoặc sử dụng đầu Lishi chuyên dụng cho ổ khóa cốp sau để mở trực tiếp, cam kết lấy chìa khóa ra an toàn và nguyên vẹn."
       },
       {
-        "q": "Chìa mới có bền như chìa hãng không?",
-        "a": "Có. Chip transponder và mã hóa giống chìa gốc, bảo hành trọn đời mã hóa."
+        "q": "Sau bao lâu thì thợ mở khóa có mặt tại chỗ?",
+        "a": "Đội cứu hộ khóa lưu động của Tuân Key túc trực 24/7 tại nhiều khu vực Hà Nội, luôn sẵn sàng di chuyển nhanh chóng để có mặt tại chỗ hỗ trợ bạn trong thời gian sớm nhất tùy theo điều kiện giao thông."
       },
       {
-        "q": "Thời gian hoàn thành mất bao lâu?",
-        "a": "Trung bình 30–60 phút cho chìa cơ/remote, 60–90 phút cho smartkey phức tạp."
+        "q": "Trường hợp khóa bị kẹt hỏng ổ khóa thì có mở được không?",
+        "a": "Được. Với tay nghề giỏi và máy móc chuyên sâu, nếu ổ khóa của bạn bị kẹt hoặc hỏng cơ học, thợ khóa sẽ tiến hành mở an toàn và hỗ trợ sửa chữa, thay nhíp hoặc phục hồi ổ khóa tại chỗ cho quý khách."
+      }
+    ]
+  },
+  {
+    "id": "srv_02",
+    "slug": "lam-lai-chia-khoa-khi-mat",
+    "name": "LÀM LẠI CHÌA KHÓA Ô TÔ KHI MẤT HẾT CHÌA",
+    "subTitle": "CỨU HỘ KHÓA Ô TÔ TẬN NƠI",
+    "shortDescription": "Dịch vụ làm lại chìa khóa ô tô, smartkey xe hơi tận nơi khi xe bị mất hết chìa. Lập trình chip từ nổ máy, cài đặt remote chính hãng nhanh chóng, chuyên nghiệp.",
+    "image": "/api/images/service-key-cutting.png",
+    "isActive": true,
+    "order": 2,
+    "longDesc": "Tuân Key cung cấp giải pháp làm lại chìa khóa ô tô mất hết chuyên nghiệp tận nơi mà không cần cẩu xe về hãng. Bằng công nghệ đọc mã chìa cơ trực tiếp qua ổ khóa và thiết bị lập trình phần mềm OBD2 hiện đại, chúng tôi cài đặt chìa khóa thông minh (smartkey), chìa khóa remote và chìa cơ nổ máy cho mọi dòng xe nhanh chóng, an toàn tuyệt đối cho hệ thống điện của xe.",
+    "benefits": [
+      "Làm lại chìa khóa ô tô tận nơi khi mất hết chìa gốc, không cần kéo xe về hãng",
+      "Đọc mã chìa cơ trực tiếp từ ổ khóa bằng dụng cụ chuyên dụng, giữ nguyên ổ khóa zin",
+      "Lập trình chip từ nổ máy (Transponder) và cài đặt tần số remote OBD2 chuẩn hãng",
+      "Cung cấp phôi chìa khóa smartkey, chìa gập, chìa remote chất lượng cao",
+      "Cam kết xóa mã chìa cũ đã mất khỏi hệ thống bảo mật để đảm bảo an toàn",
+      "Chính sách bảo hành dài hạn, hỗ trợ kỹ thuật và cứu hộ khóa 24/7"
+    ],
+    "steps": [
+      {
+        "title": "Tiếp nhận và Tư vấn",
+        "desc": "Khách hàng liên hệ qua Hotline, cung cấp thông tin hiệu xe, đời xe, năm sản xuất và vị trí xe đang đỗ."
+      },
+      {
+        "title": "Xác minh & Kiểm tra",
+        "desc": "Thợ khóa di chuyển tận nơi xác minh thông tin sở hữu và tiến hành đo đạc thông số ổ khóa cơ bằng thiết bị chuyên dùng."
+      },
+      {
+        "title": "Cắt răng & Lập trình chip",
+        "desc": "Cắt răng chìa khóa bằng máy CNC chuẩn xác và kết nối máy lập trình OBD2 để cài đặt chíp nổ máy, đồng bộ remote."
+      },
+      {
+        "title": "Kiểm tra & Bàn giao",
+        "desc": "Thử nghiệm đầy đủ các tính năng: mở cửa, khởi động động cơ, nút bấm remote, bàn giao chìa khóa mới cho khách hàng."
+      }
+    ],
+    "pricingIntro": "Chi phí làm lại chìa khi mất hết phụ thuộc vào dòng xe và loại khóa (chìa cơ, remote, smartkey). Chúng tôi luôn báo giá công khai trước khi làm.",
+    "pricingDetails": [
+      {
+        "type": "Chìa cơ có chip từ nổ máy",
+        "price": "Từ 800.000đ",
+        "note": "Toyota Vios, Honda City, KIA Morning đời cũ..."
+      },
+      {
+        "type": "Chìa khóa remote gập tiện lợi",
+        "price": "Từ 1.500.000đ",
+        "note": "Ford Ranger, Mazda 3, Hyundai Grand i10..."
+      },
+      {
+        "type": "Smartkey thông minh cao cao",
+        "price": "Từ 3.000.000đ",
+        "note": "Camry, SantaFe, Mercedes, BMW, Audi..."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "Mất hết chìa khóa xe ô tô có làm lại được tận nơi không?",
+        "a": "Hoàn toàn có thể. Dịch vụ lưu động của Tuân Key được trang bị máy cắt CNC cơ học và máy lập trình chip nổ máy kết nối qua cổng OBD2 trực tiếp trên xe. Chúng tôi sẽ đến tận nơi xe của bạn đang đỗ để khôi phục lại chìa khóa mới mà không cần cẩu xe về hãng."
+      },
+      {
+        "q": "Làm lại chìa khóa ô tô mất hết chìa gốc có an toàn cho hệ thống điện không?",
+        "a": "Rất an toàn. Quy trình làm chìa được thực hiện hoàn toàn qua phần mềm lập trình kết nối cổng OBD2, không cần đấu nối dây điện hay can thiệp phần cứng. Đồng thời, chúng tôi sẽ tiến hành xóa thông tin chìa khóa cũ bị mất khỏi hệ thống bảo mật để người khác nhặt được cũng không khởi động được xe."
+      },
+      {
+        "q": "Làm lại chìa khóa thông minh (smartkey) ô tô mất bao lâu?",
+        "a": "Thời gian xử lý phụ thuộc vào dòng xe và đời xe. Với sự hỗ trợ của các thiết bị hiện đại, thông thường quy trình làm lại chìa khóa cơ hoặc chìa remote hoàn thành rất nhanh chóng và thuận lợi ngay tại chỗ."
+      },
+      {
+        "q": "Chi phí làm lại chìa khóa ô tô khi mất hết là bao nhiêu?",
+        "a": "Chi phí làm chìa dao động tùy theo phân khúc xe và loại chìa khóa (chìa cơ có chip từ, chìa remote hay smartkey thông minh). Chúng tôi luôn kiểm tra thông tin xe và báo giá công khai trước khi thực hiện để đảm bảo minh bạch."
       }
     ]
   },
   {
     "id": "srv_03",
     "slug": "lam-chia-khoa-du-phong",
-    "name": "LÀM CHÌA KHÓA DỰ PHÒNG",
-    "subTitle": "DỊCH VỤ CHUYÊN NGHIỆP",
-    "shortDescription": "Sao chép, đánh thêm chìa dự phòng dự trữ cho xe hơi, đảm bảo an tâm cho mọi hành trình dài.",
+    "name": "LÀM CHÌA KHÓA DỰ PHÒNG XE HƠI",
+    "subTitle": "DỰ PHÒNG AN TOÀN CHO MỌI HÀNH TRÌNH",
+    "shortDescription": "Dịch vụ đánh thêm, sao chép chìa khóa dự phòng cho ô tô tận nơi. Phôi chìa chính hãng, lập trình tần số remote và chip nổ máy chuẩn xác.",
     "image": "/api/images/service-spare-keys.png",
     "isActive": true,
     "order": 3,
-    "longDesc": "Có chìa dự phòng là cách tốt nhất để tránh tình huống bị khóa ngoài xe hoặc mất chìa. Tuân Key cung cấp dịch vụ sao chép, đánh thêm chìa dự phòng cho mọi dòng xe. Chìa dự phòng được lập trình đầy đủ chip, remote, hoạt động giống hệt chìa gốc.",
+    "longDesc": "Việc chuẩn bị sẵn chìa khóa dự phòng cho ô tô là phương án tối ưu để phòng ngừa các sự cố bất ngờ như quên chìa, hỏng chìa hay làm mất chìa khóa chính. Tuân Key nhận làm thêm chìa khóa dự phòng tận nhà, giữ nguyên chìa gốc và bảo mật tuyệt đối dữ liệu của xe. Chúng tôi cung cấp phôi chìa chất lượng cao, lập trình đồng bộ bằng công nghệ tiên tiến nhất.",
     "benefits": [
-      "Sao chép chìa nhanh chóng tại chỗ",
-      "Chip & remote hoạt động giống chìa gốc",
-      "Giá rẻ hơn nhiều so với hãng chính hãng",
-      "Bảo hành chất lượng chìa dự phòng",
-      "Phòng ngừa rủi ro mất/hỏng chìa chính",
-      "Tư vấn miễn phí, báo giá trước"
+      "Đánh thêm chìa dự phòng tận nơi, không mất thời gian di chuyển của khách hàng",
+      "Sử dụng phôi chìa chính hãng cao cấp, chất lượng tương đương chìa gốc",
+      "Sao chép mã hóa chip từ nổ máy và lập trình remote điều khiển chính xác",
+      "Giá thành cạnh tranh và tối ưu hơn nhiều so với việc vào hãng làm thêm",
+      "Hỗ trợ làm thêm cho mọi loại chìa: chìa cơ, chìa remote gập, smartkey thông minh",
+      "Chế độ hậu mãi và chính sách bảo hành dài lâu cho chìa khóa làm mới"
     ],
     "steps": [
       {
@@ -127,37 +184,37 @@
     "pricingIntro": "Chi phí làm chìa dự phòng rẻ hơn nhiều so với mất hết chìa, là khoản đầu tư an tâm cho xe.",
     "pricingDetails": [
       {
-        "type": "Chìa cơ dự phòng",
-        "price": "500.000đ – 1.000.000đ",
+        "type": "Làm thêm chìa cơ có chip",
+        "price": "Từ 500.000đ",
         "note": "Chìa cơ có chip, không remote"
       },
       {
-        "type": "Chìa remote dự phòng",
-        "price": "1.000.000đ – 2.000.000đ",
+        "type": "Làm thêm chìa remote dự phòng",
+        "price": "Từ 1.000.000đ",
         "note": "Có chip + remote bấm mở cửa"
       },
       {
         "type": "Smartkey dự phòng",
-        "price": "2.000.000đ – 5.000.000đ",
+        "price": "Từ 2.000.000đ",
         "note": "Khóa thông minh đầy đủ chức năng"
       }
     ],
     "faqs": [
       {
         "q": "Có cần mang xe đến không?",
-        "a": "Có, cần xe để lập trình chip và test chìa dự phòng trực tiếp trên xe."
+        "a": "Có. Để lập trình mã hóa chip từ nổ máy và đồng bộ tần số remote điều khiển, thợ khóa cần kết nối thiết bị chuyên dụng trực tiếp qua cổng OBD2 trên xe của bạn để nạp chìa khóa mới vào hệ thống."
       },
       {
         "q": "Làm chìa dự phòng mất bao lâu?",
-        "a": "Chìa cơ: 15–20 phút. Chìa remote: 20–30 phút. Smartkey: 30–45 phút."
+        "a": "Thời gian làm thêm chìa dự phòng được thực hiện rất nhanh chóng và thuận lợi ngay tại chỗ. Tùy thuộc vào dòng xe và loại khóa, thợ khóa sẽ tiến hành đo đạc và cài đặt phần mềm hoàn tất trong thời gian ngắn nhất."
       },
       {
         "q": "Chìa gốc có bị ảnh hưởng gì không?",
-        "a": "Không. Chìa gốc vẫn hoạt động bình thường, chìa mới được thêm vào hệ thống song song."
+        "a": "Không. Chìa gốc vẫn hoạt động bình thường, chìa mới được thêm vào hệ thống song song hoàn toàn không gây ảnh hưởng gì."
       },
       {
         "q": "Tối đa được bao nhiêu chìa dự phòng?",
-        "a": "Tùy dòng xe, thường từ 4–8 chìa. Tuân Key sẽ kiểm tra và tư vấn cụ thể."
+        "a": "Tùy dòng xe, thường từ 4–8 chìa. Tuân Key sẽ kết nối thiết bị đọc thông số trực tiếp và đưa ra tư vấn cụ thể."
       }
     ]
   }

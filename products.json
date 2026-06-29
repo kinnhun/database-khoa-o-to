@@ -68,7 +68,21 @@
     "shortDescription": "Làm khóa thông minh Smartkey cho các dòng xe Honda SH, AirBlade, Lead, Vision...",
     "image": "/api/images/sanpham/smartkey.png",
     "isFeatured": false,
-    "order": 6
+    "order": 6,
+    "pricingDetails": [
+      {
+        "type": "Làm Thêm Smartkey",
+        "price": "600k - 1.2M",
+        "note": "Đã có mã ID gốc | Đồng bộ nhanh chóng | Bản hãng đầy đủ chức năng",
+        "highlight": false
+      },
+      {
+        "type": "Làm Lại Khi Mất ID",
+        "price": "1.2M - 2.2M",
+        "note": "Dò lại mã ID gốc | Lập trình code bảo mật | Phục vụ tận nơi 24/7",
+        "highlight": true
+      }
+    ]
   },
   {
     "id": "prod_07",
@@ -79,7 +93,21 @@
     "shortDescription": "Làm khóa thông minh Smartkey cho xe Yamaha Exciter, Janus, Grande, NVX...",
     "image": "/api/images/sanpham/smartkey.png",
     "isFeatured": false,
-    "order": 7
+    "order": 7,
+    "pricingDetails": [
+      {
+        "type": "Làm Thêm Smartkey",
+        "price": "600k - 1.2M",
+        "note": "Đã có mã ID gốc | Đồng bộ nhanh chóng | Bản hãng đầy đủ chức năng",
+        "highlight": false
+      },
+      {
+        "type": "Làm Lại Khi Mất ID",
+        "price": "1.2M - 2.2M",
+        "note": "Dò lại mã ID gốc | Lập trình code bảo mật | Phục vụ tận nơi 24/7",
+        "highlight": true
+      }
+    ]
   },
   {
     "id": "prod_08",
@@ -90,7 +118,21 @@
     "shortDescription": "Làm chìa khóa từ chip chống trộm cho các dòng xe Vespa, Liberty, Medley...",
     "image": "/api/images/sanpham/chia-khoa-co-chip.png",
     "isFeatured": false,
-    "order": 8
+    "order": 8,
+    "pricingDetails": [
+      {
+        "type": "Làm Chìa Dự Phòng",
+        "price": "150k - 300k",
+        "note": "Giữ nguyên mã chip cũ | Sao chép bằng máy chuyên nghiệp | Phôi khóa cao cấp",
+        "highlight": false
+      },
+      {
+        "type": "Làm Chìa Mất Hết",
+        "price": "400k - 800k",
+        "note": "Giải mã hộp đen ECU | Đánh chìa cơ từ đầu | Đăng ký chip mới hoàn toàn",
+        "highlight": true
+      }
+    ]
   },
   {
     "id": "prod_09",
@@ -101,7 +143,21 @@
     "shortDescription": "Đánh thêm, làm lại chìa cơ xe máy khi mất hết tận nơi nhanh chóng.",
     "image": "/api/images/sanpham/chia-khoa-co-chip.png",
     "isFeatured": false,
-    "order": 9
+    "order": 9,
+    "pricingDetails": [
+      {
+        "type": "Làm Chìa Cơ",
+        "price": "100k - 200k",
+        "note": "Đánh khóa dự phòng | Lưỡi khóa cắt chính xác | Phôi bền chịu lực",
+        "highlight": false
+      },
+      {
+        "type": "Làm Chìa Có Chip",
+        "price": "200k - 400k",
+        "note": "Lập trình từ chống trộm | Đồng bộ mã hóa cơ điện | Phù hợp xe Vespa/Piaggio",
+        "highlight": true
+      }
+    ]
   },
   {
     "id": "prod_10",
@@ -112,28 +168,55 @@
     "shortDescription": "Độ chìa khóa cơ, remote thẳng thành chìa khóa gập sang trọng, tiện lợi.",
     "image": "/api/images/sanpham/remote.png",
     "isFeatured": false,
-    "order": 10
-  },
-  {
-    "id": "prod_11",
-    "category_id": "cat_dochia",
-    "slug": "do-smartkey",
-    "name": "Độ smartkey ô tô",
-    "badge": "CHÍNH HÃNG",
-    "shortDescription": "Độ chìa khóa thông minh Smartkey Start/Stop, đề nổ từ xa cho ô tô.",
-    "image": "/api/images/sanpham/smartkey.png",
-    "isFeatured": false,
-    "order": 11
-  },
-  {
-    "id": "prod_12",
-    "category_id": "cat_dochia",
-    "slug": "do-smartkey-xe-may",
-    "name": "Độ Smartkey xe máy",
-    "badge": "CHÍNH HÃNG",
-    "shortDescription": "Nâng cấp từ khóa cơ truyền thống lên khóa thông minh Smartkey an toàn tuyệt đối.",
-    "image": "/api/images/sanpham/smartkey.png",
-    "isFeatured": false,
-    "order": 12
+    "order": 10,
+    "longDesc": "Sản phẩm Độ chìa khóa gập được sử dụng vô cùng rộng rãi nhờ vào độ bền và sự tiện lợi vượt trội. Để đảm bảo an toàn và vận hành tốt nhất, các công tác lắp ráp, đánh thêm khóa dự phòng hoặc xử lý sự cố mất khóa cần được thực hiện bởi đội ngũ thợ khóa lành nghề. Tuân Key tự hào là địa chỉ tin cậy chuyên sửa chữa, cài đặt smartkey và làm khóa gập cơ cho Độ chìa khóa gập lưu động tận nơi 24/7 tại toàn bộ khu vực Hà Nội.",
+    "benefits": [
+      {
+        "title": "Phôi Khóa Hãng Độ Bền Cao",
+        "desc": "Sử dụng linh kiện và phôi chìa chuẩn chính hãng, chịu nhiệt tốt, mạch điều khiển nhạy bén."
+      },
+      {
+        "title": "Thiết Bị Cài Đặt Hiện Đại",
+        "desc": "Sử dụng máy lập trình code mã hóa chuyên sâu, thao tác an toàn cho ECU và ổ khóa cơ của xe."
+      },
+      {
+        "title": "Phục Vụ Tận Nơi Tốc Hành",
+        "desc": "Đội cứu hộ khóa lưu động túc trực 24/7, có mặt ngay sau 15-30 phút gọi bất kể ngày đêm."
+      },
+      {
+        "title": "Chi Phí Hợp Lý, Minh Bạch",
+        "desc": "Báo giá trọn gói công khai trước khi làm. Cam kết không phát sinh bất kỳ chi phí ẩn nào."
+      }
+    ],
+    "steps": [
+      {
+        "title": "Khảo sát và xác nhận yêu cầu",
+        "desc": "Xác định đời xe, tình trạng chìa khóa cần sửa chữa hoặc làm mới để đưa ra phương án phù hợp."
+      },
+      {
+        "title": "Đọc mã code mã hóa & lập trình",
+        "desc": "Thợ sử dụng máy đọc chuyên dụng để lấy mã bảo mật, chép chìa và đăng ký chìa mới vào hệ thống."
+      },
+      {
+        "title": "Gia công cơ khí & kiểm thử",
+        "desc": "Cắt lưỡi chìa khóa cơ dự phòng chính xác bằng máy CNC tự động và kiểm tra thử tất cả tính năng cơ điện."
+      },
+      {
+        "title": "Bàn giao & viết phiếu bảo hành",
+        "desc": "Khách hàng trực tiếp kiểm thử khởi động và nhận chìa cùng phiếu bảo hành chính hãng từ Tuân Key."
+      }
+    ],
+    "pricingDetails": [
+      {
+        "type": "Làm Chìa Cơ",
+        "price": "100k - 300k",
+        "note": "Đánh khóa dự phòng | Độ chính xác CNC cao"
+      },
+      {
+        "type": "Lập Trình Remote",
+        "price": "300k - 800k",
+        "note": "Tích hợp điều khiển từ xa | Nạp code bảo mật hãng | Bảo hành 1 đổi 1"
+      }
+    ]
   }
 ]

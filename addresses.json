@@ -1,0 +1,20 @@
+[
+  {
+    "id": "addr_1",
+    "type": "branch",
+    "name": "Trụ sở chính",
+    "address": "Ngõ 119 Cổ Nhuế, Bắc Từ Liêm, Hà Nội"
+  },
+  {
+    "id": "addr_2",
+    "type": "branch",
+    "name": "Chi nhánh",
+    "address": "Cứu hộ nhanh lưu động toàn thành phố"
+  },
+  {
+    "id": "addr_1782707768813",
+    "type": "branch",
+    "name": "Chi nhánh Hà Đông",
+    "address": "Quang Trung, Hà Đông, Hà Nội"
+  }
+]

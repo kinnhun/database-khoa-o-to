@@ -1,16 +1,5 @@
 [
   {
-    "id": "ct_1782280738183",
-    "name": "Trần Văn B",
-    "phone": "0978123456",
-    "car": "Toyota",
-    "service": "lam-chia-khoa",
-    "message": "Làm chìa dự phòng xe Toyota Camry 2022",
-    "status": "new",
-    "createdAt": "2026-06-24T05:58:58.183Z",
-    "note": ""
-  },
-  {
     "id": "ct_1782279904678",
     "name": "Nguyễn Minh Tuân",
     "phone": "0912345678",

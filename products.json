@@ -3,13 +3,13 @@
     "id": "prod_01",
     "category_id": "cat_oto",
     "slug": "smartkey-khoa-thong-minh",
-    "name": "SMARTKEY KHÓA THÔNG MINH",
+    "name": "SMARTKEY KHÓA THÔNG MINHh",
     "badge": "CHÍNH HÃNG",
     "shortDescription": "Cài đặt, làm mới smartkey cho mọi dòng xe sang.",
     "image": "/api/images/sanpham/smartkey.png",
     "isFeatured": true,
     "order": 1,
-    "gridClass": "large1"
+    "gridClass": "small1"
   },
   {
     "id": "prod_02",

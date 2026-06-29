@@ -18,5 +18,10 @@
     "id": "cat_phukien",
     "name": "Phụ Kiện & Pin",
     "slug": "phu-kien-pin"
+  },
+  {
+    "id": "cat_1782721259755",
+    "name": "Test Category",
+    "slug": "test-category"
   }
 ]

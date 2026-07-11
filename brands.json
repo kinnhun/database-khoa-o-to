@@ -171,7 +171,12 @@
     "bannerUrl": "",
     "description": "MG là thương hiệu ô tô có nguồn gốc từ Anh, hiện thuộc sở hữu của tập đoàn SAIC Motor (Trung Quốc). Tại Việt Nam, các mẫu MG được biết đến nhờ thiết kế hiện đại, nhiều trang bị và mức giá cạnh tranh.",
     "models": [
-      "MG5 , MG ZS ,MG HS ,MG RX5 , MG7 ,MG G50"
+      "MG5",
+      "MG ZS",
+      "MG HS",
+      "MG RX5",
+      "MG 7",
+      "MG G50"
     ]
   }
 ]

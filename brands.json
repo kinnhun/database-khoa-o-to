@@ -198,5 +198,24 @@
       "Nissan Almera",
       "Nissan Sylphy"
     ]
+  },
+  {
+    "id": "br_1783953001605",
+    "slug": "lam-chia-khoa-xe-Mitsubishi",
+    "name": "Mitsubishi",
+    "fullName": "Làm chìa khóa xe Mitsubishi",
+    "origin": "Xe Nhật",
+    "logoUrl": "/api/images/brands/mitsubishi.svg",
+    "bannerUrl": "/api/images/banner/product/banner-mitsubishi.jpg",
+    "description": "Mitsubishi Motors là hãng xe đến từ Nhật Bản, thành lập năm 1970 (tách ra từ Mitsubishi Heavy Industries). Đây là một trong những thương hiệu ô tô nổi tiếng với thế mạnh về SUV, bán tải và hệ dẫn động 4 bánh Super All Wheel Control (S-AWC).",
+    "models": [
+      "Mitsubishi Attrage",
+      "Mitsubishi Xpander",
+      "Xpander Cross",
+      "Mitsubishi Xforce",
+      "Mitsubishi Destinator",
+      "Mitsubishi Pajero Sport",
+      "Mitsubishi Triton"
+    ]
   }
 ]

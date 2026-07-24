@@ -226,6 +226,35 @@
     "shortDescription": "Mở két sắt tận nơi – Nhận mở két sắt bị quên mã số, mất chìa khóa, khóa kẹt, hỏng ổ khóa, hết pin hoặc lỗi điện tử. Phục vụ nhanh chóng, thao tác cẩn thận, hạn chế hư hỏng, hỗ trợ hầu hết các loại két sắt gia đình và văn phòng.\r\n",
     "image": "/api/images/1784904000432_1784903927116_272926905066573092_7334915813545060391_80b04eefc9cbe67e91aa1f633fb7fe3f.jpg",
     "isActive": true,
-    "order": 4
+    "order": 4,
+    "longDesc": "Sử dụng máy dò két sắt chuyên dụng giúp xác định cơ cấu khóa chính xác, hỗ trợ mở két an toàn, hạn chế khoan phá, giảm thiểu hư hỏng và tăng tỷ lệ mở thành công đối với nhiều dòng két sắt cơ và điện tử.",
+    "benefits": [
+      "Dò Mã Két Sắt Không Khoan Đục , Cạy Phá",
+      "ửa Chữa Mạch Két Điện Tử & Lấy Lại Mất Mã Nhanh Giảm Thiểu Hư Hỏng"
+    ],
+    "steps": [
+      {
+        "title": "Khách hàng liên hệ qua điện thoại hoặc Zalo, cung cấp tình trạng két sắt, dòng két và địa chỉ. Kỹ thuật viên tư vấn phương án mở két phù hợp, báo giá rõ ràng và hẹn thời gian đến tận nơi.",
+        "desc": "Tiếp nhận thông tin khách hàng, xác định tình trạng két sắt, tư vấn phương án mở phù hợp, báo giá minh bạch và hẹn thời gian hỗ trợ tận nơi.\n"
+      }
+    ],
+    "pricingIntro": "Giá mở két sắt phụ thuộc vào loại két, tình trạng khóa và phương pháp xử lý. Chúng tôi luôn báo giá trước khi thực hiện, cam kết minh bạch, không phát sinh chi phí ngoài thỏa thuận.\n",
+    "pricingDetails": [
+      {
+        "type": "Mở Két Giá Giao Động",
+        "price": "500k-800k",
+        "note": "Nhận mở hầu hết các dòng két sắt phổ biến tại Việt Nam như Hòa Phát, Việt Tiệp, Việt Nhật, Epoch, Liberty, Goodwill, Kumho, Welko, Booil, Dongsung, Bofa, Philips, Aifeibao, Honeywell, Century, Doosan… kể cả két sắt cơ, điện tử và vân tay."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "Quên mất khẩu két phải làm sao ? ",
+        "a": "Liên hệ chúng tôi để được hỗ trợ !"
+      },
+      {
+        "q": "Mở két còn có còn sử dụng được không ?",
+        "a": "Mở và lấy lại mật khẩu két vẫn sử dụng bình thường"
+      }
+    ]
   }
 ]

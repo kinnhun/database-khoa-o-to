@@ -33,7 +33,7 @@
     "image": "/api/images/sanpham/vo-chia-khoa.png",
     "isFeatured": true,
     "order": 4,
-    "gridClass": "small2"
+    "gridClass": "small1"
   },
   {
     "id": "prod_05",

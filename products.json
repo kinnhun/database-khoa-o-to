@@ -26,10 +26,10 @@
   {
     "id": "prod_03",
     "category_id": "cat_oto",
-    "slug": "chia-khoa-co-chip",
-    "name": "CHÌA KHÓA CÓ CHIP",
+    "slug": "chia-khoa-oto",
+    "name": "THAY PIN & THAY VỎ KHÓA Ô TÔ",
     "badge": "CHÍNH HÃNG",
-    "shortDescription": "Mã hóa chip từ nổ máy.",
+    "shortDescription": "Thay Pin , Thay Vỏ Chìa Khóa Ô Tô Nhanh Chóng Chuyên Nghiệp",
     "image": "/api/images/sanpham/chia-khoa-co-chip.png",
     "isFeatured": true,
     "order": 3,

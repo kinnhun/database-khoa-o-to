@@ -229,19 +229,33 @@
     "longDesc": "Sử dụng máy dò két sắt chuyên dụng giúp xác định cơ cấu khóa chính xác, hỗ trợ mở két an toàn, hạn chế khoan phá, giảm thiểu hư hỏng và tăng tỷ lệ mở thành công đối với nhiều dòng két sắt cơ và điện tử.",
     "benefits": [
       "Dò Mã Két Sắt Không Khoan Đục , Cạy Phá",
-      "Sửa Chữa Mạch Két Điện Tử & Lấy Lại Mất Mã Nhanh Giảm Thiểu Hư Hỏng"
+      "Sửa Chữa Mạch Két Điện Tử & Lấy Lại Mất Mã Nhanh Giảm Thiểu Hư Hỏng",
+      "Dịch Vụ Tận Nơi Tiết Kiện Thời Gian ",
+      "Giá Cả Minh Bạch Báo Giá Trước Khi Làm"
     ],
     "steps": [
       {
-        "title": "Khách hàng liên hệ qua điện thoại hoặc Zalo, cung cấp tình trạng két sắt, dòng két và địa chỉ. Kỹ thuật viên tư vấn phương án mở két phù hợp, báo giá rõ ràng và hẹn thời gian đến tận nơi.",
-        "desc": "Tiếp nhận thông tin khách hàng, xác định tình trạng két sắt, tư vấn phương án mở phù hợp, báo giá minh bạch và hẹn thời gian hỗ trợ tận nơi.\n"
+        "title": "Khách hàng liên hệ qua điện thoại hoặc Zalo, báo giá rõ ràng và hẹn thời gian đến tận nơi.",
+        "desc": "Tiếp nhận thông tin khách hàng, xác định tình trạng két sắt, tư vấn phương án mở phù hợp, \n"
+      },
+      {
+        "title": " cung cấp tình trạng két sắt, dòng két và địa chỉ. ",
+        "desc": "Báo giá minh bạch và hẹn thời gian hỗ trợ tận nơi."
+      },
+      {
+        "title": "Kỹ thuật viên tư vấn phương án mở két phù hợp",
+        "desc": "  Thao tác mở két sắt lấy lại mật khẩu nhanh chóng , hướng dẫn bảo trì và sử dụng két sắt"
+      },
+      {
+        "title": "Bàn Giao Mật Khẩu Và Chìa Khóa",
+        "desc": "Khách hàng kiểm tra và kiểm tra lại tình trạng két sau khi mở xem có hoạt động bình thường không"
       }
     ],
     "pricingIntro": "Giá mở két sắt phụ thuộc vào loại két, tình trạng khóa và phương pháp xử lý. Chúng tôi luôn báo giá trước khi thực hiện, cam kết minh bạch, không phát sinh chi phí ngoài thỏa thuận.\n",
     "pricingDetails": [
       {
         "type": "Mở Két Giá Giao Động",
-        "price": "500k-800k",
+        "price": "500.000đ-1.000.000đ",
         "note": "Nhận mở hầu hết các dòng két sắt phổ biến tại Việt Nam như Hòa Phát, Việt Tiệp, Việt Nhật, Epoch, Liberty, Goodwill, Kumho, Welko, Booil, Dongsung, Bofa, Philips, Aifeibao, Honeywell, Century, Doosan… kể cả két sắt cơ, điện tử và vân tay."
       }
     ],

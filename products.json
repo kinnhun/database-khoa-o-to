@@ -15,13 +15,13 @@
     "id": "prod_02",
     "category_id": "cat_oto",
     "slug": "remote-dieu-khien",
-    "name": "REMOTE ĐIỀU KHIỂN",
+    "name": "Độ Gập Chìa Khóa Ô Tô",
     "badge": "CHÍNH HÃNG",
-    "shortDescription": "Làm thêm chìa khóa remote, sửa chữa mạch bấm.",
+    "shortDescription": "Làm Thêm & Độ Gập Chìa Cắm Vặn Khóa Ô Tô.",
     "image": "/api/images/sanpham/remote.png",
     "isFeatured": true,
     "order": 2,
-    "gridClass": "large2"
+    "gridClass": "small1"
   },
   {
     "id": "prod_03",

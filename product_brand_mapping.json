@@ -1,13 +1,5 @@
 [
   {
-    "product_id": "prod_03",
-    "brand_id": "br_toyota"
-  },
-  {
-    "product_id": "prod_03",
-    "brand_id": "br_honda"
-  },
-  {
     "product_id": "prod_04",
     "brand_id": "br_toyota"
   },
@@ -142,5 +134,13 @@
   {
     "product_id": "prod_02",
     "brand_id": "br_bmw"
+  },
+  {
+    "product_id": "prod_03",
+    "brand_id": "br_toyota"
+  },
+  {
+    "product_id": "prod_03",
+    "brand_id": "br_honda"
   }
 ]

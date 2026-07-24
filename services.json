@@ -158,23 +158,22 @@
     "benefits": [
       "Đánh thêm chìa dự phòng tận nơi, không mất thời gian di chuyển của khách hàng",
       "Sử dụng phôi chìa chính hãng cao cấp, chất lượng tương đương chìa gốc",
-      "Sao chép mã hóa chip từ nổ máy và lập trình remote điều khiển chính xác",
       "Giá thành cạnh tranh và tối ưu hơn nhiều so với việc vào hãng làm thêm",
-      "Hỗ trợ làm thêm cho mọi loại chìa: chìa cơ, chìa remote gập, smartkey thông minh",
-      "Chế độ hậu mãi và chính sách bảo hành dài lâu cho chìa khóa làm mới"
+      "Hỗ trợ làm thêm cho mọi loại chìa: chìa cơ, smartkey thông minh",
+      "Có mặt sau 15 - 20 phút liên hệ thao tác nhanh chóng"
     ],
     "steps": [
       {
-        "title": "Kiểm tra chìa gốc",
-        "desc": "Xác định loại chìa, loại chip và tần số remote của xe."
+        "title": "Nhận diện phương tiện cần sửa khóa",
+        "desc": "Xác minh chủ xe , vị trí của xe  "
       },
       {
         "title": "Cắt chìa cơ",
-        "desc": "Sao chép rãnh chìa cơ theo chìa gốc bằng máy cắt CNC."
+        "desc": "dò lại rãnh chìa cơ theo chìa gốc bằng máy cắt CNC."
       },
       {
-        "title": "Lập trình chip & remote",
-        "desc": "Nạp code chip transponder và đồng bộ tần số remote với xe."
+        "title": "Lập trình thêm remote & bàn giao chìa khóa cơ",
+        "desc": "Bàn giao chìa Khóa xe  "
       },
       {
         "title": "Test toàn diện",
@@ -185,16 +184,16 @@
     "pricingDetails": [
       {
         "type": "Làm thêm chìa cơ có chip",
-        "price": "Từ 500.000đ",
+        "price": "Từ 200.000đ-500.000đ",
         "note": "Chìa cơ có chip, không remote"
       },
       {
-        "type": "Làm thêm chìa remote dự phòng",
+        "type": "Làm thêm chìa remote smartkey dự phòng",
         "price": "Từ 1.000.000đ",
         "note": "Có chip + remote bấm mở cửa"
       },
       {
-        "type": "Smartkey dự phòng",
+        "type": "Smartkey xe moto",
         "price": "Từ 2.000.000đ",
         "note": "Khóa thông minh đầy đủ chức năng"
       }

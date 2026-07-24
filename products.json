@@ -50,27 +50,14 @@
   {
     "id": "prod_06",
     "category_id": "cat_xemay",
-    "slug": "smartkey-honda",
-    "name": "Smartkey Honda",
+    "slug": "smartkey-honda-yamaha",
+    "name": "REMOTE SMARTKEY : HONDA , YAMAHA,....",
     "badge": "CHÍNH HÃNG",
     "shortDescription": "Làm khóa thông minh Smartkey cho các dòng xe Honda SH, AirBlade, Lead, Vision...",
-    "image": "/api/images/sanpham/smartkey.png",
+    "image": "/api/images/sanpham/1784905536362_1784905490094_272926905066573092_7334915813545060391_a2661e4e1f7a1233b2c5b36475c3518e.jpg",
     "isFeatured": false,
     "order": 6,
-    "pricingDetails": [
-      {
-        "type": "Làm Thêm Smartkey",
-        "price": "600k - 1.2M",
-        "note": "Đã có mã ID gốc | Đồng bộ nhanh chóng | Bản hãng đầy đủ chức năng",
-        "highlight": false
-      },
-      {
-        "type": "Làm Lại Khi Mất ID",
-        "price": "1.2M - 2.2M",
-        "note": "Dò lại mã ID gốc | Lập trình code bảo mật | Phục vụ tận nơi 24/7",
-        "highlight": true
-      }
-    ]
+    "gridClass": "small1"
   },
   {
     "id": "prod_07",

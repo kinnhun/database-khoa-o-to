@@ -142,5 +142,41 @@
   {
     "product_id": "prod_03",
     "brand_id": "br_honda"
+  },
+  {
+    "product_id": "prod_03",
+    "brand_id": "br_mazda"
+  },
+  {
+    "product_id": "prod_03",
+    "brand_id": "br_hyundai"
+  },
+  {
+    "product_id": "prod_03",
+    "brand_id": "br_ford"
+  },
+  {
+    "product_id": "prod_03",
+    "brand_id": "br_kia"
+  },
+  {
+    "product_id": "prod_03",
+    "brand_id": "br_mercedes"
+  },
+  {
+    "product_id": "prod_03",
+    "brand_id": "br_bmw"
+  },
+  {
+    "product_id": "prod_03",
+    "brand_id": "br_1783712137933"
+  },
+  {
+    "product_id": "prod_03",
+    "brand_id": "br_1783740526383"
+  },
+  {
+    "product_id": "prod_03",
+    "brand_id": "br_1783953001605"
   }
 ]
